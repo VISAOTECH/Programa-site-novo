@@ -1,4 +1,4 @@
-# Projeto Final Itaú Formação Tech Edição
+# Projeto Final Itaú Formação Tech 3ª edição grupo 8
 ## Site de notícias
 ### News Net
 
