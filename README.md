@@ -31,7 +31,7 @@ Visual Studio Code no Windows.
 **Número do grupo:** 08
 
 - **Membros**
-  - [Wagner Moreira](https://github.com/VISAOTECH)
+  - [Wagner Moreira](https://github.com/WagnerMoreiraDev)
   - [Leonardo Guimarães](https://github.com/leoguimaoficial)
   - [Andreia Mendoca](https://github.com/Ardnna)
   - [Erike Rodrigues](https://github.com/Erike-Rodrigues)
