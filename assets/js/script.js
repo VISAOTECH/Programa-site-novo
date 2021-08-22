@@ -13,3 +13,11 @@ document.onreadystatechange = () => {
     highlightCurrent()
   }
 };
+
+let send = document.getElementById("send")
+
+function exibirAlert (){
+  alert("Parabéns, Mensagem enviada com sucesso!!")
+}
+
+send.addEventListener("click", exibirAlert)
