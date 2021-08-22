@@ -33,6 +33,6 @@ Visual Studio Code no Windows.
 - **Membros**
   - [Wagner Moreira](https://github.com/WagnerMoreiraDev)
   - [Leonardo Guimarães](https://github.com/leoguimaoficial)
-  - [Andreia Mendoca](https://github.com/Ardnna)
+  - [Andréia Michaelsen](https://github.com/Ardnna)
   - [Erike Rodrigues](https://github.com/Erike-Rodrigues)
   - [Matheus Lima](https://github.com/MLmatheus)
